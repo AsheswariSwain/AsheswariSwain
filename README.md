@@ -56,7 +56,7 @@ I've spent 10+ years designing scalable distributed systems, data pipelines, and
 
 ### 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ash9vc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/asheswariswain)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-2692-2487)
 [![arXiv](https://img.shields.io/badge/arXiv-2604.22693-B31B1B?style=flat&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.22693)
 [![X](https://img.shields.io/badge/@Asheswari__Swain-000000?style=flat&logo=x&logoColor=white)](https://x.com/Asheswari_Swain)
